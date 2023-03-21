@@ -1,0 +1,11 @@
+Id,Designator,Package,Value,Item name,manufacturer number,part number,vendor,Quality,Cost per item,Cost,link
+,"Conn3,Conn2",Square_Anderson_2_H_Side_By_Side,Contacts,Anderson Power 1336G1 Printed Circuit Board High Power 45 Amp Horizontal Bottom Contact,1336G0,1336G1,Powerwerx,4,0.92,3.68,https://powerwerx.com/anderson-1336g1-printed-circuit-board-horizontal 
+,"Conn3,Conn1",Square_Anderson_2_H_Side_By_Side,Black Housing,"BK Anderson Power Products PP15/30/45 Powerpole Connector Colored Housing, Loose Piece, Black",1327G5,1327G6,Powerwerx,2,0.55,0.37,https://powerwerx.com/anderson-powerpole-colored-housings 
+,"Conn3,Conn0",Square_Anderson_2_H_Side_By_Side,Red Housing,"BK Anderson Power Products PP15/30/45 Powerpole Connector Colored Housing, Loose Piece, Black",1327,1327,Powerwerx,1,0.55,0.55,https://powerwerx.com/anderson-powerpole-colored-housings 
+,"Conn3,Conn1",Square_Anderson_2_H_Side_By_Side,Blue Housing,"BK Anderson Power Products PP15/30/45 Powerpole Connector Colored Housing, Loose Piece, Black",1327G8,1327G8,Powerwerx,1,0.67,0.67,https://powerwerx.com/anderson-powerpole-colored-housings 
+,VR1,Q36SR12020NRFA,big boi buck,Q36SR12020NRFA,Q36SR12020NRFA,941-1762-ND,Digikey,1,63.86,63.86,https://www.digikey.com/en/products/detail/delta-electronics/Q36SR12020NRFA/6133831
+,Conn2,MOLEX_SL_02_Horizontal,tee hee,705530001,705530001,WM4900-ND,Digikey,1,0.86,0.86,https://www.digikey.com/en/products/detail/molex/0705530001/114951?s=N4IgTCBcDaIOoFkAsBOADGgtAOQCIgF0BfIA
+,"C7,C6,C5",CP_Radial_D8.0mm_P3.50mm,470uF,8.6002E+11,8.6002E+11,732-8831-1-ND,Digikey,3,0.35,1.05,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020474014/5727068
+,C4,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,0.1uF,C1206C104KMRECAUTO,C1206C104KMRECAUTO,399-C1206C104KMRECAUTOTR-ND,Digikey,1,0.26,0.26,https://www.digikey.com/en/products/detail/kemet/C1206C104KMRECAUTO/8647060
+,"C3,C2",C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,10uF,CL32B106KMVNNWE,CL32B106KMVNNWE,1276-7053-2-ND,Digikey,2,0.81,1.62,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B106KMVNNWE/7320558
+,C1,CP_Radial_D5.0mm_P2.00mm,22uF,ECA-1JM220,ECA-1JM220,P5190-ND,Digikey,1,0.32,0.32,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1JM220/245049
